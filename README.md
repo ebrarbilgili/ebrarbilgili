@@ -5,6 +5,6 @@
 
 ###### Medium: https://ebrarbilgili.medium.com
 ###### Twitter: https://twitter.com/ebrarblg
-###### And this is my new Atomic Guide Website for beginners in Flutter that I just started to prepare: flutteratomic.com
+###### And this is my new Atomic Guide Website for beginners in Flutter that I just started to prepare: https://flutteratomic.com
 
 
