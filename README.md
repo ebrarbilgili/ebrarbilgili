@@ -1,7 +1,7 @@
 ## About <a name = "about"></a>
 ![Alt Text](https://media.giphy.com/media/dlMIwDQAxXn1K/giphy.gif)
 
-Medium: https://ebrarbilgili.medium.com
+Medium: https://ebrarbilgili.medium.com \n
 Twitter: https://twitter.com/ebrarblg
 And this is my new Atomic Guide Website for beginners in Flutter that I just started to prepare: flutteratomic.com
 
