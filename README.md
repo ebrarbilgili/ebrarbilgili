@@ -1,7 +1,6 @@
 ## About <a name = "about"></a>
-![Alt Text](https://media.giphy.com/media/dlMIwDQAxXn1K/giphy.gif)
 
-# Hello World! It's Ebrar. Let's start coding! (The gif is also me 😄 )
+# Hello World! It's Ebrar. Let's start coding!
 
 ### Connect with me
 [<img align="left" alt="LinkedIn" width="80" src="https://cdn.exclaimer.com/Handbook%20Images/linkedin-icon_128x128.png" />]( http://www.linkedin.com/in/ebrarbilgili)
