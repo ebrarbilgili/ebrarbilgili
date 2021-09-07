@@ -31,3 +31,6 @@
 
 ---
 ![Ebrar's github stats](https://github-readme-stats.vercel.app/api?username=ebrarbilgili&show_icons=true)
+
+**Visitors Count**  
+![VisitorCount](https://profile-counter.glitch.me/{ebrarbilgili}/count.svg)
