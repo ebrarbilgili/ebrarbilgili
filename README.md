@@ -6,6 +6,7 @@
 [<img align="left" alt="LinkedIn" width="80" src="https://cdn.exclaimer.com/Handbook%20Images/linkedin-icon_128x128.png" />]( http://www.linkedin.com/in/ebrarbilgili)
 [<img align="left" alt="Medium" width="80" src="https://cdn.exclaimer.com/Handbook%20Images/Medium_128.png" />](https://ebrarbilgili.medium.com)
 [<img align="left" alt="Twitter" width="80" src="https://cdn.exclaimer.com/Handbook%20Images/twitter-icon_128x128.png" />](https://twitter.com/ebrarblg)
+[<img align="left" alt="Twitter" width="80" src="https://static.wixstatic.com/media/1bf8c6_e329a382d82b4d72a58f9748e82c7e5c~mv2.png/v1/fill/w_72,h_72,al_c/mobiler-07.png" />](https://www.mobiler.dev/profile/ebrarbilgili/blog-posts)
 <br />
 
 
